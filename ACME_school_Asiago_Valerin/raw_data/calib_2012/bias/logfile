@@ -1,0 +1,17 @@
+
+Oct 13 16:27: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+          EK269575.fits
+          EK269576.fits
+          EK269577.fits
+          EK269578.fits
+          EK269579.fits
+          EK269580.fits
+          EK269581.fits
+          EK269582.fits
+          EK269583.fits
+
+  Output image = master_bias.txt, ncombine = 9

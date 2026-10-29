@@ -1,0 +1,14 @@
+
+Oct 15 16:57 [2026aacjz_dered.fits[*,1,1]]: SN2026aacj
+    center      cont      flux       eqw      core     gfwhm     lfwhm
+  5966.403 1.804E-15 -1.17E-12    -124.9
+     5899. 9.305E-16 -8.60E-16    0.9244
+    center      cont      flux       eqw      core     gfwhm     lfwhm
+  5898.906 9.166E-16 -7.80E-16    0.8509 -2.46E-16     2.976        0.
+
+Oct 15 17:23 [SN2026aaiv_20261013_Asiago_VPH3.fits[*,1,1]]: SN2026aaiv
+    center      cont      flux       eqw      core     gfwhm     lfwhm
+  5890.377 8.618E-15 -4.68E-15    0.5433 -1.24E-15     3.551        0.
+  5896.218 8.549E-15 -3.71E-15    0.4337 -9.67E-16     3.603        0.
+   5906.31 8.577E-15 -4.38E-15    0.5103 -9.34E-16     4.402        0.
+  5911.851 8.545E-15 -1.83E-15    0.2146 -4.52E-16     3.809        0.
